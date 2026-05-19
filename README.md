@@ -24,7 +24,7 @@ Five years in dialog marketing in Berlin — from fundraiser to **Städteleiter 
 Full-time, live online · 850 units · Graduating July 2026
 
 | Module | Topics | 
-|---|---|---|
+|---|---|
 | Data Science Foundation | Python, SQL, Statistics basics | 
 | Business Analysis with SQL & Tableau | Dashboards, business reporting |
 | Pandas for Data Processing | Data wrangling, transformation | 
