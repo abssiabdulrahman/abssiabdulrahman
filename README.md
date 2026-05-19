@@ -122,9 +122,10 @@ Aug 2026 →   │  Open to roles in:
 
 ### 📊 GitHub Stats
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abssiabdulrahman&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abssiabdulrahman&layout=compact&theme=default&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abssiabdulrahman&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abssiabdulrahman&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
 ---
 
 ### 📬 Let's connect
