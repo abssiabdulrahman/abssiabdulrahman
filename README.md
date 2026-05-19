@@ -62,7 +62,7 @@ Full-time, live online · 850 units · English-language programme · Graduating 
 ### 🛠 Skills
 
 **Languages & Tools**
-`Python` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Jupyter` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `VS Code`
+`Python` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Jupyter` &nbsp;·&nbsp;  `VS Code`
 
 **Data Analysis & Wrangling**
 `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Excel / Google Sheets` &nbsp;·&nbsp; `EDA` &nbsp;·&nbsp; `Data Cleaning`
@@ -77,7 +77,7 @@ Full-time, live online · 850 units · English-language programme · Graduating 
 `scikit-learn` &nbsp;·&nbsp; `Supervised Learning` &nbsp;·&nbsp; `Unsupervised Learning` &nbsp;·&nbsp; `Generative AI`
 
 **Data Engineering**
-`Web Scraping` &nbsp;·&nbsp; `APIs` &nbsp;·&nbsp; `ETL Pipelines` &nbsp;·&nbsp; `AWS Fundamentals`
+`Web Scraping` &nbsp;·&nbsp; `APIs` &nbsp;·&nbsp; `ETL Pipelines` &nbsp;·&nbsp;
 
 **Domain Knowledge**
 `Dialog Marketing` &nbsp;·&nbsp; `Fundraising Operations` &nbsp;·&nbsp; `Donor / Customer Analytics` &nbsp;·&nbsp; `CRM` &nbsp;·&nbsp; `Team Coaching & Leadership`
