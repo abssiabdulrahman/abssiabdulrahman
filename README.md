@@ -120,13 +120,19 @@ Aug 2026 →   │  Open to roles in:
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abssiabdulrahman&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abssiabdulrahman&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
----
+**🧪 [A/B Test — Homepage Button Optimisation](https://github.com/abssiabdulrahman/Eniac-A-B-Test-Homepage-Button-Optimisation)**
+Statistical testing of button colour and copy variants to improve homepage engagement. Hypothesis testing, conversion analysis, and recommendations based on significance results.
+`Python` · `Pandas` · `Statistics` · `A/B Testing`
+
+**🌎 [Brazil Logistics Evaluation — Eniac & Magist](https://github.com/abssiabdulrahman/Eniac-Brazil-Logistics-Magist-Evaluation)**
+SQL and Tableau analysis evaluating a logistics partner for international expansion. KPI development, delivery delay analysis, and a dashboard-driven strategic recommendation.
+`SQL` · `Tableau` · `Business Intelligence` · `KPI Analysis`
+
+**💰 [Discount Strategy Analysis — Eniac](https://github.com/abssiabdulrahman/Eniac_Discount_Strategy_Analysis)**
+Analysis of 2017–2018 discount campaign performance — what worked, what didn't, and recommendations for future strategy.
+`Python` · `Pandas` · `EDA` · `Business Analytics`
 
 ### 📬 Let's connect
 
