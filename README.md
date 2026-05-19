@@ -27,7 +27,6 @@ Five years in dialog marketing in Berlin — working my way up from fundraiser t
 
 I worked with donor performance data every day — segmentation, retention, response rates, KPI tracking — using spreadsheets and CRM tools. I always knew the questions deserved better tools than I had. That's why I'm now retraining in data science.
 
-> *Not switching careers — upgrading the toolkit.*
 
 ---
 
