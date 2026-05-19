@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Abdul Rahman Abssi 👋
 
 Berlin-based career changer training as a Data Scientist at WBS Coding School (graduating July 2026).
