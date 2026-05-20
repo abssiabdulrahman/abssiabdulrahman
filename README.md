@@ -1,12 +1,84 @@
 # Hi, I'm Abdul Rahman Abssi 👋
 
-**Berlin-based career changer · Marketing leadership → Data Science · WBS Coding School '26**
+**Berlin · Dialog marketing leadership → Data Science · WBS Coding School '26**
 
-📍 Berlin, Germany &nbsp;·&nbsp; 📧 abssiabdulrahman@gmail.com
+📍 Berlin, Germany &nbsp;·&nbsp; 📧 abssiabdulrahman@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-abssi-b64bb640b/)
 
 ---
 
-### 🧰 Tech Stack
+### 👋 About me
+
+Five years in dialog marketing in Berlin — from fundraiser to **Städteleitung / Coach** at LittleTalks, where I led 4 fundraising teams with 14 fundraisers across Berlin and reported directly to the CEO.
+
+I worked with donor performance data every day — segmentation, retention, response rates, KPI tracking — using spreadsheets and CRM tools. I always knew the questions deserved better tools than I had. That's why I'm now retraining in data science.
+
+> *Not switching careers — upgrading the toolkit.*
+
+---
+
+### 📂 Featured Projects
+
+🧪 **[A/B Test — Homepage Button Optimisation](https://github.com/abssiabdulrahman/Eniac-A-B-Test-Homepage-Button-Optimisation)**
+Statistical testing of button colour and copy variants. Hypothesis testing, conversion analysis, and recommendations based on significance results.
+`Python` · `Pandas` · `Statistics` · `A/B Testing`
+
+🌎 **[Brazil Logistics Evaluation — Eniac & Magist](https://github.com/abssiabdulrahman/Eniac-Brazil-Logistics-Magist-Evaluation)**
+SQL and Tableau analysis evaluating a logistics partner for international expansion. KPI development, delivery delay analysis, and a dashboard-driven strategic recommendation.
+`SQL` · `Tableau` · `Business Intelligence` · `KPI Analysis`
+
+💰 **[Discount Strategy Analysis — Eniac](https://github.com/abssiabdulrahman/Eniac_Discount_Strategy_Analysis)**
+Analysis of 2017–2018 discount campaign performance — what worked, what didn't, and recommendations for future strategy.
+`Python` · `Pandas` · `EDA` · `Business Analytics`
+
+---
+
+### 🎯 Where I'm headed
+
+Open to roles in **Marketing Analytics**, **CRM / Customer Analytics**, **Business Intelligence**, **Fundraising / Donor Analytics**, **HR / People Analytics**, or **Junior Data Analyst** positions in Berlin from August 2026.
+
+---
+
+### 📌 Career timeline
+
+```text
+2020         │  Fundraiser · Talk2move / Ärzte ohne Grenzen, Berlin
+             │  Entry into face-to-face dialog marketing
+             │
+2021         │  Fundraiser → Teamleitung · DialogDirect, Berlin
+             │  Promoted to team lead · Top 10 fundraisers at the agency
+             │
+2022         │  Recruiting · Little Talks, Berlin
+             │  Hiring and onboarding of new fundraisers
+             │
+2024 – 2025  │  Teamleitung · LittleTalks GmbH, Berlin
+             │  5-person fundraising team · Daily KPI tracking
+             │
+2025         │  Städteleitung / Coach · LittleTalks GmbH, Berlin
+             │  Led 4 teams · 14 fundraisers · Reported to the CEO
+             │
+2026         │  Data Science · WBS Coding School (Mar – Jul 2026)
+             │  Python · SQL · Tableau · ML · ETL · A/B Testing
+```
+
+---
+
+### 🎓 WBS Coding School — Data Science (Mar – Jul 2026)
+
+Full-time · 850 units · English-language · Graduating **24 July 2026**
+
+**Curriculum covers:**
+- **Foundations** — Python, SQL, statistics
+- **Analytics & Visualisation** — Pandas, Tableau, Matplotlib, Seaborn, dashboards, storytelling
+- **Experimentation** — A/B testing, hypothesis testing, KPI development
+- **Data Engineering** — Web scraping, APIs, databases, cloud-based ETL pipelines
+- **Machine Learning** — Supervised, unsupervised, scikit-learn
+- **Generative AI** — LLM workflows and integration
+
+**Certificates:** WBS Coding School Graduate Certificate · PCEP – Certified Entry-Level Python Programmer
+
+---
+
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,121 +93,17 @@
 
 ---
 
-### 👋 About me
-
-Five years in dialog marketing in Berlin — working my way up from fundraiser to **Städteleitung / Coach** at LittleTalks, where I led four fundraising teams with 14 fundraisers across Berlin and reported directly to the CEO.
-
-I worked with donor performance data every day — segmentation, retention, response rates, KPI tracking — using spreadsheets and CRM tools. I always knew the questions deserved better tools than I had. That's why I'm now retraining in data science.
-
-
----
-
-### 🎯 Where I'm headed
-
-Looking for roles in **Marketing Analytics**, **CRM / Customer Analytics**, **Fundraising / Donor Analytics**, **HR / People Analytics**, or general **Junior Data Analyst** positions in Berlin from August 2026.
-
----
-
-### 🎓 Currently learning — WBS Coding School Data Science (Mar – Jul 2026)
-
-Full-time, live online · 850 units · English-language programme · Graduating **24 July 2026**
-
-| Module | Focus |
-|---|---|
-| Data Science Foundation | Python · SQL · Statistics |
-| Business Analysis with SQL & Tableau | Dashboards · business reporting |
-| Pandas for Data Processing | Data wrangling · transformation |
-| Data Cleaning & Storytelling with Python | Matplotlib · Seaborn · narrative analytics |
-| A/B Testing | Experiment design · statistical testing |
-| Advanced SQL | Query optimisation · interview preparation |
-| Web Scraping, APIs & Databases | Data collection · automation |
-| Cloud-based ETL Pipelines | AWS · data engineering fundamentals |
-| Unsupervised Machine Learning | Clustering · dimensionality reduction |
-| Supervised Machine Learning | Classification · regression · model evaluation |
-| Generative AI Implementation | LLMs · AI workflows |
-| Final Project & Career Coaching | Portfolio · interview prep |
-
-**Certificates:** WBS Coding School Graduate Certificate · PCEP – Certified Entry-Level Python Programmer
-
----
-
-### 🛠 Skills
-
-**Languages & Tools**
-`Python` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Jupyter` &nbsp;·&nbsp;  `VS Code`
-
-**Data Analysis & Wrangling**
-`Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Excel / Google Sheets` &nbsp;·&nbsp; `EDA` &nbsp;·&nbsp; `Data Cleaning`
-
-**Visualisation**
-`Tableau` &nbsp;·&nbsp; `Matplotlib` &nbsp;·&nbsp; `Seaborn` &nbsp;·&nbsp; `Dashboarding` &nbsp;·&nbsp; `Data Storytelling`
-
-**Statistics & Experimentation**
-`A/B Testing` &nbsp;·&nbsp; `Hypothesis Testing` &nbsp;·&nbsp; `KPI Development`
-
-**Machine Learning**
-`scikit-learn` &nbsp;·&nbsp; `Supervised Learning` &nbsp;·&nbsp; `Unsupervised Learning` &nbsp;·&nbsp; `Generative AI`
-
-**Data Engineering**
-`Web Scraping` &nbsp;·&nbsp; `APIs` &nbsp;·&nbsp; `ETL Pipelines` &nbsp;·&nbsp;
-
-**Domain Knowledge**
-`Dialog Marketing` &nbsp;·&nbsp; `Fundraising Operations` &nbsp;·&nbsp; `Donor / Customer Analytics` &nbsp;·&nbsp; `CRM` &nbsp;·&nbsp; `Team Coaching & Leadership`
-
----
-
-### 📌 Career timeline
-
-```text
-2020         │  Fundraiser · Talk2move / Ärzte ohne Grenzen, Berlin
-             │  Entry into face-to-face dialog marketing
-             │
-2021         │  Fundraiser → Teamleitung · DialogDirect, Berlin
-             │  Promoted to team lead · Among top 10 fundraisers in the agency
-             │
-2022         │  Recruiting · Little Talks, Berlin
-             │  Hiring and onboarding of new fundraisers
-             │
-2024 – 2025  │  Teamleitung · LittleTalks GmbH, Berlin
-             │  Led a 5-person fundraising team · Daily KPI tracking
-             │
-2025         │  Städteleitung / Coach · LittleTalks GmbH, Berlin
-             │  Led 4 teams · 14 fundraisers · Reported to the CEO
-             │
-2026         │  Data Science · WBS Coding School (Mar – Jul 2026)
-             │  Python · SQL · Tableau · ML · ETL · A/B Testing · Generative AI
-             │
-Aug 2026 →   │  Open to roles in:
-             │  Marketing Analytics · CRM Analytics
-             │  Fundraising / Donor Analytics · HR Analytics
-```
-
----
-
 ### 🌍 Languages
 
-🇩🇪 **German** — fluent (in Germany since age 15)
-🇸🇦 **Arabic** — native
-🇬🇧 **English** — advanced (B2); current bootcamp is in English
+🇩🇪 German — fluent (in Germany since age 15) &nbsp;·&nbsp; 🇸🇦 Arabic — native &nbsp;·&nbsp; 🇬🇧 English — advanced (B2)
 
 ---
-
-### 📂 Featured Projects
-
-**🧪 [A/B Test — Homepage Button Optimisation](https://github.com/abssiabdulrahman/Eniac-A-B-Test-Homepage-Button-Optimisation)**
-Statistical testing of button colour and copy variants to improve homepage engagement. Hypothesis testing, conversion analysis, and recommendations based on significance results.
-`Python` · `Pandas` · `Statistics` · `A/B Testing`
-
-**🌎 [Brazil Logistics Evaluation — Eniac & Magist](https://github.com/abssiabdulrahman/Eniac-Brazil-Logistics-Magist-Evaluation)**
-SQL and Tableau analysis evaluating a logistics partner for international expansion. KPI development, delivery delay analysis, and a dashboard-driven strategic recommendation.
-`SQL` · `Tableau` · `Business Intelligence` · `KPI Analysis`
-
-**💰 [Discount Strategy Analysis — Eniac](https://github.com/abssiabdulrahman/Eniac_Discount_Strategy_Analysis)**
-Analysis of 2017–2018 discount campaign performance — what worked, what didn't, and recommendations for future strategy.
-`Python` · `Pandas` · `EDA` · `Business Analytics`
 
 ### 📬 Let's connect
 
+I'm always happy to talk to people working at the intersection of data and people — analytics, customer behaviour, marketing science, fundraising, or just thoughtful work with messy real-world data.
+
+📧 abssiabdulrahman@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-abssi-b64bb640b/) &nbsp;·&nbsp; 📍 Berlin
 I'm always happy to talk to people working at the intersection of **data and people** — analytics, customer behaviour, marketing science, fundraising, or just thoughtful work with messy real-world data.
 
 📧 abssiabdulrahman@gmail.com &nbsp;·&nbsp; 📍 Berlin, Germany
