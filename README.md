@@ -6,12 +6,28 @@
 
 ---
 
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
 ### 👋 About me
 
 Five years in dialog marketing in Berlin — from fundraiser to **Städteleitung / Coach** at LittleTalks, where I led 4 fundraising teams with 14 fundraisers across Berlin and reported directly to the CEO.
 
 I worked with donor performance data every day — segmentation, retention, response rates, KPI tracking — using spreadsheets and CRM tools. I always knew the questions deserved better tools than I had. That's why I'm now retraining in data science.
 
+> *Not switching careers — upgrading the toolkit.*
 
 ---
 
@@ -77,21 +93,6 @@ Full-time · 850 units · English-language · Graduating **24 July 2026**
 
 ---
 
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
 ### 🌍 Languages
 
 🇩🇪 German — fluent (in Germany since age 15) &nbsp;·&nbsp; 🇸🇦 Arabic — native &nbsp;·&nbsp; 🇬🇧 English — advanced (B2)
@@ -103,6 +104,3 @@ Full-time · 850 units · English-language · Graduating **24 July 2026**
 I'm always happy to talk to people working at the intersection of data and people — analytics, customer behaviour, marketing science, fundraising, or just thoughtful work with messy real-world data.
 
 📧 abssiabdulrahman@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-abssi-b64bb640b/) &nbsp;·&nbsp; 📍 Berlin
-I'm always happy to talk to people working at the intersection of **data and people** — analytics, customer behaviour, marketing science, fundraising, or just thoughtful work with messy real-world data.
-
-📧 abssiabdulrahman@gmail.com &nbsp;·&nbsp; 📍 Berlin, Germany
